@@ -159,7 +159,7 @@ Below is the interactive Power BI dashboard created as part of this project.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Retail-Customer-Analytics.git
+git clone https://github.com/imakarshv/Retail-Customer-Analytics.git
 ```
 
 2. Install dependencies
