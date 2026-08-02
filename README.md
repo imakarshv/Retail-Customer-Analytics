@@ -207,6 +207,6 @@ pip install -r requirements.txt
 
 Akarsh Vuttaradi
 
-LinkedIn: linkedin.com/in/akarsh-vuttaradi
+LinkedIn: https://www.linkedin.com/in/akarsh-vuttaradi/
 
 GitHub: https://github.com/imakarshv
