@@ -20,6 +20,17 @@ The project combines SQL for querying data, Python for analysis and visualizatio
 
 ---
 
+## Project Highlights
+
+- Cleaned and transformed over 500,000 retail transactions
+- Wrote 10 SQL scripts covering beginner to advanced SQL concepts
+- Performed exploratory data analysis using Python and Pandas
+- Built an interactive Power BI dashboard with KPIs and slicers
+- Segmented customers into Bronze, Silver, Gold, and VIP tiers
+- Identified top-performing countries, products, and customers
+
+---
+
 ## Dataset
 
 **Source:** Online Retail Dataset (UCI Machine Learning Repository)
