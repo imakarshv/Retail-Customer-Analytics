@@ -148,17 +148,9 @@ The interactive dashboard includes:
 
 ## Dashboard Preview
 
-> Add your dashboard screenshot here after saving it.
+Below is the interactive Power BI dashboard created as part of this project.
 
-```text
-images/dashboard.png
-```
-
-Then include:
-
-```markdown
-![Dashboard](images/dashboard.png)
-```
+![Retail Customer Analytics Dashboard](dashboard/dashboard.png)
 
 ---
 
